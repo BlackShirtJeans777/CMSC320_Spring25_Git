@@ -1,4 +1,6 @@
 
+
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be added to the marketing field, if you wanted to gather consumer data collected in order to find a more targeted approach to selling something similar, you could use data science to coalate large sums of data into something coherent for a client to read.
@@ -8,4 +10,6 @@ Q1: Why might we consider using Git?
 Answer: Helps us practices the nuances of push, pulling and committing to a branch in preparation for having a job that might require it later.
 
 
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: Merging will merge the two branches into a new branch while rebasing will add the new branch onto the main branch.
