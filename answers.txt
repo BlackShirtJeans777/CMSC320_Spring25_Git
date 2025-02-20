@@ -13,3 +13,7 @@ Answer: Helps us practices the nuances of push, pulling and committing to a bran
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging will merge the two branches into a new branch while rebasing will add the new branch onto the main branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to adding to my skillset in coding with learning to code more efficiently in Python and SQL.
